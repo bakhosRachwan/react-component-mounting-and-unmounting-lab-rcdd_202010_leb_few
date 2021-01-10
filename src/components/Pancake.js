@@ -11,7 +11,7 @@ class Pancake extends React.Component {
   }
 
   componentDidMount(){
-    this.setState({timeCooked: 2})
+    this.setState({timeCooked: 1})
   }
   // which will start the interval to count how long the pancake has been cooking
 
